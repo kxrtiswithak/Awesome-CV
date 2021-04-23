@@ -1,0 +1,3 @@
+[submodule "examples/cvwithak"]
+	path = examples/cvwithak
+	url = git@github.com:kxrtiswithak/cvwithak.git
